@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_Küsimustik_3", "Python_Küsimustik_3.pyproj", "{5B78E87A-1776-4DE4-B26B-871DC27B326D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B78E87A-1776-4DE4-B26B-871DC27B326D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B78E87A-1776-4DE4-B26B-871DC27B326D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7DE6893-B325-4C2A-9DB7-43C7081D3B03}
+	EndGlobalSection
+EndGlobal
